@@ -1,3 +1,3 @@
 # SparkStreaming_Analysis
-SparkStreaming整合Kafka进行数据处理
-分别采用Dstream、Struture Streaming处理kafka数据
+1、SparkStreaming整合Kafka进行数据处理
+2、分别采用Dstream、Struture Streaming处理kafka数据
